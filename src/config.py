@@ -1,3 +1,3 @@
-traindatapath = 'C:\\Users\\kubad\\.cache\\kagglehub\\datasets\\daniilor\\semeval-2026-task13\\versions\\3\\SemEval-2026-Task13\\task_a\\task_a_training_set_1.parquet'
-testdatapath = 'C:\\Users\\kubad\\.cache\\kagglehub\\datasets\\daniilor\\semeval-2026-task13\\versions\\3\\SemEval-2026-Task13\\task_a\\task_a_test_set_sample.parquet'
-valdatapath = 'C:\\Users\\kubad\\.cache\\kagglehub\\datasets\\daniilor\\semeval-2026-task13\\versions\\3\\SemEval-2026-Task13\\task_a\\task_a_validation_set.parquet'
+traindatapath = 'C:\\Users\\Adam\\.cache\\kagglehub\\datasets\\daniilor\\semeval-2026-task13\\versions\\3\\SemEval-2026-Task13\\task_a\\task_a_training_set_1.parquet'
+testdatapath = 'C:\\Users\\Adam\\.cache\\kagglehub\\datasets\\daniilor\\semeval-2026-task13\\versions\\3\\SemEval-2026-Task13\\task_a\\task_a_test_set_sample.parquet'
+valdatapath = 'C:\\Users\\Adam\\.cache\\kagglehub\\datasets\\daniilor\\semeval-2026-task13\\versions\\3\\SemEval-2026-Task13\\task_a\\task_a_validation_set.parquet'
